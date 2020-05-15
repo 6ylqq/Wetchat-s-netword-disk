@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "文件",
+  "usingComponents": {
+    "mp-dialog": "/components/dialog/dialog"
+  }
+  
+}

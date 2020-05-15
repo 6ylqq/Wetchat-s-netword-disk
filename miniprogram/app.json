@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/folder/folder",
+    "pages/album/album",
+    "pages/user/user",
+    "pages/files/files",
+    "pages/photos/photos",
+    "pages/files/add",
+    "pages/photos/add"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/folder/folder",
+        "text": "文件",
+        "iconPath": "/images/file.png",
+        "selectedIconPath": "/images/file_hl.png"
+      },
+      {
+        "pagePath": "pages/album/album",
+        "text": "图片",
+        "iconPath": "/images/pictrue.png",
+        "selectedIconPath": "/images/pictrue_hl.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "用户",
+        "iconPath": "/images/person.png",
+        "selectedIconPath": "/images/person_hl.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

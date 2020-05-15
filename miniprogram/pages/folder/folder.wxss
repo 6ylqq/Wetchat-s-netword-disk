@@ -1,0 +1,12 @@
+/* miniprogram/pages/folder/folder.wxss */
+
+
+.add-icon{
+  margin-right:16px;
+  vertical-align: middle;
+  width:40px;
+  height:40px;
+  position: absolute;
+  bottom: 100rpx;
+  right:70rpx;
+}

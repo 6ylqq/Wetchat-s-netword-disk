@@ -1,0 +1,8 @@
+{
+  
+  "usingComponents": {
+    
+    "mp-dialog": "/components/dialog/dialog"
+  },
+  "navigationBarTitleText": "相册"
+}
